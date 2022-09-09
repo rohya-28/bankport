@@ -9,6 +9,7 @@ import CTA from "./CTA";
 import Footer from "./Footer";
 import Hero from "./Hero";
 import Stats from "./Stats";
+import GetStarted from "./GetStarted";
 
 export {
     Navbar,
@@ -21,6 +22,7 @@ export {
     CTA,
     Footer,
     Hero,
-    Stats
+    Stats,
+    GetStarted
  
 }
