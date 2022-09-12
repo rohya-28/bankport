@@ -4,7 +4,7 @@ import Button from "./Button";
 import Business from "./Business";
 import Testimonials from "./Testimonials";
 import Clients from "./Clients";
-import cardDeal from "./cardDeal";
+import CardDeal from "./cardDeal";
 import CTA from "./CTA";
 import Footer from "./Footer";
 import Hero from "./Hero";
@@ -18,7 +18,7 @@ export {
     Button,
     Testimonials,
     Clients,
-    cardDeal,
+    CardDeal,
     CTA,
     Footer,
     Hero,
